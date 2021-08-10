@@ -1,4 +1,4 @@
-Hello there, I'm Romi Sugianto👋
+### 👋Hello there, I'm Romi Sugianto
 
 I'm a backend software engineer who likes learning something new. Currently im working as a network engginer and help my coworker with fullstack web development, In my free time i like to work on my side projects about automation stuff to helpme work efficiently.
 
