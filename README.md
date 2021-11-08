@@ -1,6 +1,6 @@
 ### 👋Hello there, I'm Romi Sugianto
 
-I'm a backend software engineer who likes learning something new. Currently im working as a network engginer and help my coworker with fullstack web development, In my free time i like to work on my side projects about automation stuff to helpme work efficiently.
+I'm a backend software engineer who likes and still learning about software engineer stuff. Currently im working as a network engineer and doing some fullstack web development sometimes, In my free time i like to work on my side projects about automation stuff to help me work efficiently.
 
 - 👀 I’m interested in **Automation and Machine learning**
 - 🌱 I’m currently learning **Golang** and **Python**
